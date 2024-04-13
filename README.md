@@ -1,3 +1,4 @@
 # demo
-this my first repository
-autor - khushboo
+This my first Git Repository
+<br>
+Autor - khushboo
